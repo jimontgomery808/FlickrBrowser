@@ -10,6 +10,7 @@ public class BaseActivity extends AppCompatActivity
 {
     private Toolbar mToolbar;
     public static final String FLICKR_QUERY = "FLICKR_QUERY";
+    public final String PHOTO_TRANSFER = "PHOTO_TRANSFER";
 
     protected Toolbar activateToolbar()
     {
