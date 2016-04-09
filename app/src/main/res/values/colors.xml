@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="flickrPrimaryBackground">@color/md_blue_100</color>
-  <color name="flickrSecondaryBackground">@color/md_blue_200</color>
-  <color name="flickrColorBackgroundAccent">@color/md_pink_500</color>
-  <color name="flickrBackgroundColor">@color/md_grey_600</color>
-  <color name="flickrPrimaryTextColor">@color/md_grey_600</color>
-  <color name="flickrSecondaryTextColor">@color/md_blue_100</color>
+  <color name="flickrPrimaryBackground">@color/md_deep_purple_600</color>
+  <color name="flickrSecondaryBackground">@color/md_deep_purple_800</color>
+  <color name="flickrColorBackgroundAccent">@color/md_white_1000</color>
+  <color name="flickrBackgroundColor">@color/md_blue_grey_800</color>
+  <color name="flickrPrimaryTextColor">@color/md_white_1000</color>
+  <color name="flickrSecondaryTextColor">@color/md_white_1000</color>
 </resources>

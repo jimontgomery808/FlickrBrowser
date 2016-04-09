@@ -20,7 +20,7 @@
         <item name="android:textColorPrimary">@color/flickrPrimaryTextColor</item>
         <item name="colorControlHighlight">@color/flickrBackgroundColor</item>
         <item name="android:actionMenuTextColor">@color/flickrPrimaryTextColor</item>
-        <item name="android:textColorSecondary">@color/flickrSecondaryTextColor</item>
+        <item name="android:textColorSecondary">@color/flickrPrimaryTextColor</item>
         <item name="android:background">@color/flickrPrimaryBackground</item>
     </style>
 
